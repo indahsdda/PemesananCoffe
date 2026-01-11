@@ -14,3 +14,11 @@ Fitur yang dibuat
 ![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/WhatsApp%20Image%202026-01-10%20at%2019.17.55%20(2).jpeg)
 ![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/ab7f395a-ed12-49d5-ae2b-8ae1a8ddaffc.jpg?raw=true)
 ![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/dcbf6270-996b-4076-a0bb-91e7d53816a9.jpg)
+
+Cara menjalankan aplikasi
+  - bagian utama buat akun(email/password atau phone) lalu masuk dengan akun yang sudah anda pake
+  - halamanan beranda ada berbagai macam menu klik tambah menu jika ingin membeli
+  - setalah itu pesanan masuk ke keranjang di bagian itu anda bisa menambah mengurangi serta menghapus pesananan nya
+  - pemabayaran pada pesanan klik proses pembayaran
+  - pilih metode pembayaran transfer M-banking atau Bayar tempat klik konfirmasi pesanana lalu pesanan memverfikasi pembayaran
+  - pembayaran selesai pesanan masuk ke riwayat pesanan
