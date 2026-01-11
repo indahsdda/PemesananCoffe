@@ -11,9 +11,7 @@ Fitur yang dibuat
 ![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/WhatsApp%20Image%202026-01-10%20at%2019.17.54.jpeg?raw=true)
 ![image alt](https://github.com/indahsdda/PemesananCoffe/blob/d28c9788c15ef6493657ad48adcd8727ffe07456/WhatsApp%20Image%202026-01-10%20at%2019.17.55.jpeg)
 ![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/WhatsApp%20Image%202026-01-10%20at%2019.17.55%20(1).jpeg)
-![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/WhatsApp%20Image%202026-01-10%20at%2019.17.55%20(2).jpeg)
-![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/ab7f395a-ed12-49d5-ae2b-8ae1a8ddaffc.jpg?raw=true)
-![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/dcbf6270-996b-4076-a0bb-91e7d53816a9.jpg)
+![image alt](https://github.com/indahsdda/PemesananCoffe/blob/main/WhatsApp%20Image%202026-01-11%20at%2019.53.43.jpeg?raw=true)
 
 Cara menjalankan aplikasi
   - bagian utama buat akun(email/password atau phone) lalu masuk dengan akun yang sudah anda pake
